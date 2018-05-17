@@ -1,2 +1,0 @@
-# mesd
-Unpacked MESD blacklists
